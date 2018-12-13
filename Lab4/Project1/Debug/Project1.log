@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\andrew.cutler\downloads\lab4\lab4\lab4\project1\source.cpp(34): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\andrew.cutler\downloads\lab4\lab4\lab4\project1\source.cpp(123): warning C4715: 'hDigitToDec': not all control paths return a value
+LINK : fatal error LNK1104: cannot open file 'C:\Users\andrew.cutler\Downloads\Lab4\Lab4\Lab4\Debug\Project1.exe'
